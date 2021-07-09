@@ -59,9 +59,9 @@ body {
 }
 
 .four .text-box {
-    width: 600px;
+    width: 400px;
     margin: 0 auto;
-    border: 3px solid #aaa;
+    border: 3px solid #ccc;
     border-radius: 5px;
     padding: 10px;
     position: relative;
@@ -87,7 +87,7 @@ body {
 }
 
 .five p {
-    font-size: 2rem;
+    font-size: 2.1rem;
     position: absolute;
     left: 0;
     right: 0;
@@ -110,7 +110,8 @@ body {
 }
 
 .idea-6 span {
-    font-size: 15rem;
+    font-size: 14rem;
+    color: #E18AD4;
 }
 
 .six {
@@ -161,13 +162,13 @@ body {
 .eight svg:nth-child(1) {
     top: 7vh;
     left: 5vw;
-    fill: #bd6ecf;
+    fill: #E18AD4;
 }
 
 .eight svg:nth-child(2) {
     top: 23vh;
     left: 35vw;
-    fill: #7dd175;
+    fill: #4DCCBD;
 }
 
 .eight svg:nth-child(3) {
@@ -185,7 +186,7 @@ body {
 .eight svg:nth-child(5) {
     top: 68vh;
     left: 7vw;
-    fill: #c66053;
+    fill: #FF5154;
 }
 
 .eight svg:nth-child(6) {
